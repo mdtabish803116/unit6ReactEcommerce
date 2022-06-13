@@ -1,0 +1,102 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Bloodworth",
+      "gender": "female",
+      "price": 3978,
+      "category": "saree",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 2,
+      "title": "Tomik",
+      "gender": "female",
+      "price": 2198,
+      "category": "jacket",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 3,
+      "title": "Pauley",
+      "gender": "male",
+      "price": 933,
+      "category": "jacket",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 4,
+      "title": "Edgerley",
+      "gender": "female",
+      "price": 4286,
+      "category": "shirt",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 5,
+      "title": "Featherstonhaugh",
+      "gender": "female",
+      "price": 2853,
+      "category": "shirt",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 6,
+      "title": "Busek",
+      "gender": "female",
+      "price": 4687,
+      "category": "shirt",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 7,
+      "title": "Myrie",
+      "gender": "male",
+      "price": 2684,
+      "category": "shirt",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 8,
+      "title": "Doxey",
+      "gender": "male",
+      "price": 4727,
+      "category": "salwar",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 9,
+      "title": "Ivons",
+      "gender": "male",
+      "price": 1243,
+      "category": "trouser",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 10,
+      "title": "Markel",
+      "gender": "male",
+      "price": 1353,
+      "category": "jacket",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "title": "eer",
+      "gender": "",
+      "category": "qee",
+      "price": "1234",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIMArwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAAIEBQYBBwj/xABAEAABAwIEAwQEDQMDBQAAAAABAAIDBBEFEiExBkFREyJhcTKRwdEHFCNCUmJygYKSobHhJEPwFVPxM0Vjg7L/xAAaAQADAQEBAQAAAAAAAAAAAAAAAQIDBAUG/8QAJREAAgIBAwQCAwEAAAAAAAAAAAECEQMSIUEEEzFRIjIUQmEj/9oADAMBAAIRAxEAPwCzjmKktfdVLXkKRHKvpz54ssgOoCgYVVR4pRCqjjdGC9zMrj9E29iIZyI3a8iqrgt7m4BDmIOZ73DTkXFQ38qNYpaWy3dDromGA+akh913M1USQzGQmlqmnKUJzGnmgZEy2KWqM6I8kMtKQDErpFN3KAO81wrjiG+kbeeiG6eIbzR/mCm0A+y7l0QfjMXJxd9lpKDHiUMs00UTJXOiIDu5bUjxRqQ6ZKcxCcxcNZlaXGGSwF+Q9qTp3naG32n2/YItBQNwTVyWWYD0IgbgekTubdEN5nOxj/KfepsdBE9rgFBldOwXL27geh1NuqY50g3qCPJrR7EtQaC2aLorbhRzV08drvLrm3dF+a47Eo2XGW1he8jg33qtaI0slTuLaeU9GO/ZQuEjlwGl8if1KiV+NxminAmhDzG4BrBmOx5qow3GoqTDKaB0kzSy9wHBrefNZSzRUrN44pOJvC8AXJA80F1ZA0kGZhI5A3P6LCzcUUrXXHZEgbukzfsoknFwBJY5tz9CM+1S+qguSl002ehHE",
+      "": "Female",
+      "id": 11
+    },
+    {
+      "title": "eer",
+      "gender": "",
+      "category": "qee",
+      "price": "1234",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIMArwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAAIEBQYBBwj/xABAEAABAwIEAwQEDQMDBQAAAAABAAIDBBEFEiExBkFREyJhcTKRwdEHFCNCUmJygYKSobHhJEPwFVPxM0Vjg7L/xAAaAQADAQEBAQAAAAAAAAAAAAAAAQIDBAUG/8QAJREAAgIBAwQCAwEAAAAAAAAAAAECEQMSIUEEEzFRIjIUQmEj/9oADAMBAAIRAxEAPwCzjmKktfdVLXkKRHKvpz54ssgOoCgYVVR4pRCqjjdGC9zMrj9E29iIZyI3a8iqrgt7m4BDmIOZ73DTkXFQ38qNYpaWy3dDromGA+akh913M1USQzGQmlqmnKUJzGnmgZEy2KWqM6I8kMtKQDErpFN3KAO81wrjiG+kbeeiG6eIbzR/mCm0A+y7l0QfjMXJxd9lpKDHiUMs00UTJXOiIDu5bUjxRqQ6ZKcxCcxcNZlaXGGSwF+Q9qTp3naG32n2/YItBQNwTVyWWYD0IgbgekTubdEN5nOxj/KfepsdBE9rgFBldOwXL27geh1NuqY50g3qCPJrR7EtQaC2aLorbhRzV08drvLrm3dF+a47Eo2XGW1he8jg33qtaI0slTuLaeU9GO/ZQuEjlwGl8if1KiV+NxminAmhDzG4BrBmOx5qow3GoqTDKaB0kzSy9wHBrefNZSzRUrN44pOJvC8AXJA80F1ZA0kGZhI5A3P6LCzcUUrXXHZEgbukzfsoknFwBJY5tz9CM+1S+qguSl002ehHE",
+      "": "Female",
+      "id": 12
+    }
+  ]
+}
