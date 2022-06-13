@@ -75,6 +75,23 @@ const Product = () => {
       
        }
 
+       const handleDelete = (id) => {
+        fetch(`http://localhost:3002/product/${id}` , {
+            method : "DELETE",
+          
+        }).then((res) => res.json())
+           .then((res) => {
+             getProduct();
+        })
+          .catch((err) => {
+             setError(true);
+             setProduct([]);
+          })
+          .finally(() => {
+               setLoading(false);
+          })
+       }
+
      return loading ? (<h1>Loading...</h1>)
      : error ? (<h1>Error...</h1>)
      :(
@@ -82,7 +99,7 @@ const Product = () => {
              <ProductForm formData = {formData}
                handleChange = {handleChange}
                handleSubmit = {handleSubmit}/>
-             <ProductList data = {product}/>    
+             <ProductList data = {product} handleDelete = {handleDelete}/>    
           </>
      )
 }
